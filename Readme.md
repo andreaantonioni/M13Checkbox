@@ -209,7 +209,7 @@ A shim that gives the ability to set the enum values of `M13Checkbox` in Interfa
 ### Requirements
 
 - Requires iOS 9 or later.
-- Requires Swift 3.0
+- Requires Swift 4
 
 ### Support
 
